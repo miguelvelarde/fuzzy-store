@@ -5,11 +5,7 @@ import RutasAutenticadas from './scr/navegacion/RutasAutenticadas'
 import RutasNoAutenticadas from './scr/navegacion/RutasNoAutenticadas'
 
 export default function App() {
-  return (
-    
-      <RutasNoAutenticadas></RutasNoAutenticadas>
-    
-  );
+  return <RutasNoAutenticadas></RutasNoAutenticadas>;
 }
 
 const styles = StyleSheet.create({

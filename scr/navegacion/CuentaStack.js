@@ -14,7 +14,7 @@ export function CuentaStack(){
                 name='confirmar-numero'
                 options={
                     {
-                        title: 'Confirma tu telefono',
+                        title: 'Confirma tu teléfono',
                         headerStyle: {backgroundColor: '#128c7e'},
                         headerTintColor: '#fff'
                     }}
@@ -25,7 +25,7 @@ export function CuentaStack(){
                 name='enviar-confirmacion'
                 options={
                     {
-                        title: 'Confirma tu telefono',
+                        title: 'Confirmar teléfono',
                         headerStyle: {backgroundColor: '#128c7e'},
                         headerTintColor: '#fff'
                     }}
